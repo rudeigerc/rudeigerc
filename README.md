@@ -1,9 +1,9 @@
 ### Yuchen Cheng
 
-![SJTU-SE](http://img.shields.io/badge/SJTU--SE-C9151E?style=flat-square)
-![Blog](http://img.shields.io/badge/rudeigerc.dev-FF4088?style=flat-square&logo=Hugo&logoColor=white&link=https://rudeigerc.dev)
-![Gmail](https://img.shields.io/badge/rudeigerc@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudeigerc@gmail.com)
-![Twitter](https://img.shields.io/badge/yuchen__cheng-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yuchen_cheng)
+[![SJTU-SE](http://img.shields.io/badge/SJTU--SE-C9151E?style=flat-square)](https://www.sjtu.edu.cn)
+[![Blog](http://img.shields.io/badge/rudeigerc.dev-FF4088?style=flat-square&logo=Hugo&logoColor=white&link=https://rudeigerc.dev)](https://rudeigerc.dev)
+[![Gmail](https://img.shields.io/badge/rudeigerc@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudeigerc@gmail.com)](mailto:rudeigerc@gmail.com)
+[![Twitter](https://img.shields.io/badge/yuchen__cheng-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yuchen_cheng)](https://twitter.com/yuchen_cheng)
 
 <!--
 **rudeigerc/rudeigerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
