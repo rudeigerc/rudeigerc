@@ -1,6 +1,5 @@
-### Yuchen Cheng
+### Hi, I'm Yuchen Cheng
 
-[![SJTU-SE](http://img.shields.io/badge/SJTU--SE-C9151E?style=flat-square)](https://www.sjtu.edu.cn)
 [![Blog](http://img.shields.io/badge/rudeigerc.dev-FF4088?style=flat-square&logo=Hugo&logoColor=white&link=https://rudeigerc.dev)](https://rudeigerc.dev)
 [![Gmail](https://img.shields.io/badge/rudeigerc@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudeigerc@gmail.com)](mailto:rudeigerc@gmail.com)
 [![Twitter](https://img.shields.io/badge/yuchen__cheng-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yuchen_cheng)](https://twitter.com/yuchen_cheng)
@@ -21,7 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Graduate Student [@SJTU-SE](https://github.com/SJTU-SE)
-- Research Interests
-  - Distributed System
-  - Resource Management
+- I'm currently a graduate student majoring in software engineering [@SJTU-SE](https://github.com/SJTU-SE).
+- My research interests include cluster resource management and stream processing.
+- I'm interested in cloud-native technologies.
+
+![Yuchen Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudeigerc&show_icons=true&theme=graywhite)
