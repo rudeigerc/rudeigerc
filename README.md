@@ -20,8 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently a graduate student majoring in software engineering [@SJTU-SE](https://github.com/SJTU-SE).
-- My research interests include cluster resource management and stream processing.
-- I'm interested in cloud-native technologies.
-
 ![Yuchen Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudeigerc&show_icons=true&theme=graywhite)
